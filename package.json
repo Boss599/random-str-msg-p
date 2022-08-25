@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-p",
+  "version": "1.0.0",
+  "description": "Random String",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boss599/random-str-msg-p.git"
+  },
+  "keywords": [],
+  "author": "Yorsse Granda <yorsse@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boss599/random-str-msg-p/issues"
+  },
+  "homepage": "https://github.com/Boss599/random-str-msg-p#readme",
+  "bin":{
+    "random-str-msg-p":"./bin/global.js"
+  },
+  "preferGlobal": true
+}

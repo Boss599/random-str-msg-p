@@ -1,2 +1,2 @@
 # random-str-msg-p
-Random String
+Random String de bandas de Rock
